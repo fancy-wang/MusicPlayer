@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:weightSum="1">
+    <RelativeLayout
+        android:layout_height="match_parent"
+        android:id="@+id/relativeLayout1"
+        android:layout_width="match_parent"
+        android:background="@drawable/tupianaaaa">
+        <ImageButton android:id="@+id/stop"
+            android:layout_height="wrap_content" android:src="@drawable/stop" android:layout_width="wrap_content" android:layout_alignTop="@+id/pause" android:layout_toRightOf="@+id/pause"></ImageButton>
+        <ImageButton android:id="@+id/pause" android:layout_height="wrap_content" android:src="@drawable/pause" android:layout_width="wrap_content" android:layout_alignTop="@+id/play" android:layout_toRightOf="@+id/play"></ImageButton>
+        <Button android:layout_height="wrap_content" android:text="歌曲" android:layout_width="wrap_content" android:layout_alignParentLeft="true" android:gravity="center" android:layout_marginLeft="16dp" android:textSize="12dp" android:layout_alignTop="@+id/play" android:id="@+id/button1"></Button>
+        <ImageButton android:layout_marginLeft="38dp" android:id="@+id/play" android:layout_height="wrap_content" android:src="@drawable/play" android:layout_width="wrap_content" android:layout_alignParentBottom="true" android:layout_marginBottom="94dp" android:layout_toRightOf="@+id/button1"></ImageButton>
+        <TextView 
+        android:id="@+id/currentProgress" 
+        android:layout_height="wrap_content" 
+        android:layout_width="wrap_content" 
+        android:textColor="#FF000000"
+        android:layout_below="@+id/seekBar1" 
+        android:layout_alignParentLeft="true" 
+        android:layout_marginBottom="66dp"></TextView>
+        <TextView android:id="@+id/curtimeandtotaltime" android:layout_height="wrap_content" android:layout_width="wrap_content"  android:layout_below="@+id/seekBar1"  android:textColor="#FF000000" android:layout_alignParentRight="true"></TextView>
+        <TextView 
+        android:id="@+id/textView2" 
+        android:layout_height="30dp" 
+        android:layout_width="120dp" 
+        android:text="音乐播放器" 
+        android:layout_alignParentTop="true" 
+        android:layout_centerHorizontal="true"
+        android:textSize="23sp"
+        android:textColor="#FF000000"
+        android:layout_marginTop="105dp"></TextView>
+        <SeekBar android:layout_height="wrap_content" android:layout_width="250dp" android:id="@+id/seekBar1" android:progressDrawable="@layout/seekbarstyle" android:layout_centerVertical="true" android:layout_centerHorizontal="true"></SeekBar>
+        
+    </RelativeLayout>
+
+
+</LinearLayout>

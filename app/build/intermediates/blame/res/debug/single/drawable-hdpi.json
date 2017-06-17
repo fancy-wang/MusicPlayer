@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Andworkspace\\bofangqi01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\pause.png",
+        "source": "D:\\Andworkspace\\bofangqi01\\app\\src\\main\\res\\drawable-hdpi\\pause.png"
+    },
+    {
+        "merged": "D:\\Andworkspace\\bofangqi01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\stop.png",
+        "source": "D:\\Andworkspace\\bofangqi01\\app\\src\\main\\res\\drawable-hdpi\\stop.png"
+    },
+    {
+        "merged": "D:\\Andworkspace\\bofangqi01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "D:\\Andworkspace\\bofangqi01\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "D:\\Andworkspace\\bofangqi01\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\play.png",
+        "source": "D:\\Andworkspace\\bofangqi01\\app\\src\\main\\res\\drawable-hdpi\\play.png"
+    }
+]

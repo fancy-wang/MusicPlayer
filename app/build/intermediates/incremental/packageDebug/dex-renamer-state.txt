@@ -1,0 +1,7 @@
+#Sat Jun 17 16:18:06 CST 2017
+base.0=D\:\\Andworkspace\\bofangqi01\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e20b7731ddcdb52cfc4d85724640f23b30629d8c
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Andworkspace\\bofangqi01\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1bf2219e95e05437a74053e7d4b590e09e011dc6\\classes.dex
+base.1=D\:\\Andworkspace\\bofangqi01\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_1bf2219e95e05437a74053e7d4b590e09e011dc6
+file.0=D\:\\Andworkspace\\bofangqi01\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_e20b7731ddcdb52cfc4d85724640f23b30629d8c\\classes.dex
